@@ -1,4 +1,4 @@
-worker: python bot.py
+web: python bot.py
 """
    _____                    __  __         _    _              _       _______           _     
   / ____|                  |  \/  |       | |  | |            ( )     |__   __|         | |    
