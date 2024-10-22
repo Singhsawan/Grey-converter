@@ -1,17 +1,12 @@
-aiohttpz
-pymongo[srv]==3.12.3
-motor==2.5.1
-Pyrogram==2.0.30
-TgCrypto==1.2.3
-bs4
-pyshorteners
+pymongo[srv]
+motor
+Pyrogram
+TgCrypto
+shortzy
 aiofiles
-dnspythons
-python-dotenv
-errorsolvers
-domainers 
-shortener
-pyshortner
+Flask
+gunicorn
+aiohttp
 """
    _____                    __  __         _    _              _       _______           _     
   / ____|                  |  \/  |       | |  | |            ( )     |__   __|         | |    
