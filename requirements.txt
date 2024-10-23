@@ -1,7 +1,7 @@
+pyrogram==2.0.106
 aiohttpz
 pymongo[srv]==3.12.3
 motor==2.5.1
-pyrogram==2.0.106
 TgCrypto==1.2.3
 bs4
 pyshorteners
